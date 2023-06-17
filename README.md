@@ -45,7 +45,7 @@ U-141
 
 - **Puan tamamlama mantığı**: 
 
-- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Linked+pull+requests%22%5D&pane=issue&itemId=31075589)
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2?pane=issue&itemId=31076440)
 
 - **Sprint board update**: Sprint board screenshotları:  
 - **Sprint board update**: 
