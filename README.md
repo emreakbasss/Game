@@ -14,7 +14,7 @@ U-141
 
 ## Product Backlog URL
 
-[Unıty u-141 Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/OYUN/boards/1)
+[Unıty u-141 Team Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/OYUN/boards/1)
 
 ## Ürün Açıklaması
 
@@ -41,12 +41,14 @@ U-141
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
 
 - **Puan tamamlama mantığı**: 
 
-- **Daily Scrum**: 
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats]()
+
+- **Sprint board update**: Sprint board screenshotları:  
 - **Sprint board update**: 
 
 - **Ürün Durumu**: 
