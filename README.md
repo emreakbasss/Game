@@ -3,11 +3,12 @@
 U-141
 # Ürün ile İlgili Bilgiler
 # Takım elemanları
--Büşra Korkmaz : Scrum Master
-Emre Akbaş :Product Owner
-Nur Hazal Çufalcı:Developer
-Damla Öksel:Developer
-Furkan Şakar UI / UX
+< br/>Büşra Korkmaz : Scrum Master< br/>
+< br/>Emre Akbaş :Product Owner< br/>
+< br/>Nur Hazal Çufalcı:Developer< br/>
+< br/>Damla Öksel:Developer< br/>
+< br/>Furkan Şakar UI / UX< br/>
+
 
 
 
