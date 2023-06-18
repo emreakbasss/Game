@@ -53,7 +53,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 - **Puan tamamlama mantığı**: Sprint 1 en az 50 puan ile başlamaya karar verdik.Görevlerin en kolayına en düşük puanı en zor olana ise yüksek puanı verdik.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2/views/1?pane=issue&itemId=31104936)
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://user-images.githubusercontent.com/136268715/246683801-b845bffb-44bd-47ed-bad9-9f0e6fbf397a.png)
 
 - **Sprint board update**: ![Backlog ](https://user-images.githubusercontent.com/136268715/246683209-85e299c3-117e-4664-9cca-79c058d77001.png) 
   
