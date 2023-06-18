@@ -55,7 +55,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2?pane=issue&itemId=31076440)
 
-- **Sprint board update**: ![Backlog ](https://user-images.githubusercontent.com/136268715/246631384-2704fd08-0676-4b06-bf9c-92c81906a4be.png) 
+- **Sprint board update**: ![Backlog ](https://user-images.githubusercontent.com/136268715/246683209-85e299c3-117e-4664-9cca-79c058d77001.png) 
   
 
 - **Ürün Durumu**: 
