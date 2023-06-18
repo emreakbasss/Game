@@ -29,7 +29,7 @@ Bu tehlikeli durum karşısında insanlığın geleceği tehlikeye girdi. İnsan
 - Tek oyunculu bir hikaye modunda çeşitli görevler
 - Zorluk derecesine göre ekipmanların değişmesi
 - Mağazada oyun içi ekipman vb. satın alınabilme
-- Oyun içerisi puan toplama 
+- Oyun içi puan toplama 
 
 ## Hedef Kitle
 - Yapay zeka alanına ilgi duyanlar
