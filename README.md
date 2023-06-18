@@ -60,7 +60,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 - **Ürün Durumu**: 
 - **Sprint Review**: Alınan Kararlar : Oyunun hikayesi asset seçimi tamamlanmıştır.Kullanıcı arayüzü tasarımına başlanmış olup yetiştirilemediği için sprint 2'ye aktarılmıştır.
-- 
+  
 
 
 - **Sprint Retrospective:**
