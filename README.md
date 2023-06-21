@@ -60,7 +60,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 - **Ürün Durumu**: ![Ürün1 ](https://user-images.githubusercontent.com/136268715/247560785-fb45e7cc-c557-4647-8f11-e9ee8211eb97.jpg)
 -  ![Ürün2](https://user-images.githubusercontent.com/136268715/247560936-1d2f31e1-6718-4157-a321-971314d2dbd1.jpg)
-- 
+  
 - **Sprint Review**: Alınan Kararlar : Oyunun hikayesi asset seçimi tamamlanmıştır.Kullanıcı arayüzü tasarımına başlanmış olup yetiştirilemediği için sprint 2'ye aktarılmıştır.
   
 
