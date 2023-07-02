@@ -82,13 +82,13 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog ](https://user-images.githubusercontent.com/136268715/246683209-85e299c3-117e-4664-9cca-79c058d77001.png) 
+![Backlog ](https://user-images.githubusercontent.com/136268715/250405529-527ca05e-1d40-4cee-b325-1ff18069eec3.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+  ![Screenshot 1](https://user-images.githubusercontent.com/136268715/250405614-3001f5f9-fc8d-4743-a1b5-439e4a1471eb.png)
+  ![Screenshot 2](https://user-images.githubusercontent.com/136268715/250405690-1c5ed287-8edf-4fad-ae4f-ca2b036447e4.png)
+  ![Screenshot 3](https://user-images.githubusercontent.com/136268715/250405793-adb550e5-90a1-462e-8886-db8759e551a9.png)
 
 - **Sprint Review**: 
 - Alınan kararlar: Oyun içerisinde kazanılan bölümlere puan verilmesi ve seviye belirlenmesi konuşuldu.
