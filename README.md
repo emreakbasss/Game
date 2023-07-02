@@ -74,12 +74,15 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 
 ---
+## Product Backlog URL
+
+[Unıty u-141 Team Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/OYUN/boards/1)
 # Sprint 2
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint şeklinde bölünmüştür.
 2.Sprintimize 100 puan üzerinden puanlama yapılmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 1 Daily Scrum Chats](https://user-images.githubusercontent.com/136268715/246683801-b845bffb-44bd-47ed-bad9-9f0e6fbf397a.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog ](https://user-images.githubusercontent.com/136268715/250405529-527ca05e-1d40-4cee-b325-1ff18069eec3.png) 
