@@ -48,7 +48,8 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+
 
 
 - **Puan tamamlama mantığı**: Sprint 1 en az 50 puan ile başlamaya karar verdik.Görevlerin en kolayına en düşük puanı en zor olana ise yüksek puanı verdik.
@@ -73,6 +74,34 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 
 ---
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint şeklinde bölünmüştür.
+2.Sprintimize 100 puan üzerinden puanlama yapılmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog ](https://user-images.githubusercontent.com/136268715/246683209-85e299c3-117e-4664-9cca-79c058d77001.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
+  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
+  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+
+- **Sprint Review**: 
+- Alınan kararlar: Oyun içerisinde kazanılan bölümlere puan verilmesi ve seviye belirlenmesi konuşuldu.
+
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Bir arkadaşımıza ulaşılamamıştır.
+
+
+---
+
 
 
 
