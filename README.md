@@ -76,7 +76,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 ---
 ## Product Backlog URL
 
-[Unıty u-141 Team Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/OYUN/boards/1)
+[Unıty u-141 Team Sprint 2 Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/O2/boards/3)
 # Sprint 2
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint şeklinde bölünmüştür.
