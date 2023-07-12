@@ -8,8 +8,7 @@ U-141
 - Damla Öksel:Developer
 - Furkan Şakar UI / UX	
 ## Ürün İsmi
-AI SAVAŞLARI
-
+AI Wars
 
 
 ## Product Backlog URL
