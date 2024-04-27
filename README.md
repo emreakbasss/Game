@@ -102,6 +102,10 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
   - Bir arkadaşımıza ulaşılamamıştır.
 
+## Son Durum
+<img width="401" alt="Ekran görüntüsü 2024-04-28 001913" src="https://github.com/emreakbasss/Game/assets/115668315/58b093f1-50e6-40fe-b529-5db94bd2ae0f">
+<img width="412" alt="Ekran görüntüsü 2024-04-28 002131" src="https://github.com/emreakbasss/Game/assets/115668315/5a33d5d0-f3e9-4669-b6fb-a50137ddcb22">
+<img width="400" alt="Ekran görüntüsü 2024-04-28 002224" src="https://github.com/emreakbasss/Game/assets/115668315/f0d46ec1-224d-4b87-9dd0-b4d724e13976">
 
 ---
 
